@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Big Projectxwx</string>
+    <string name="btn_reset_label">重置</string>
+    <string name="txt_label">Advertise</string>
+    <string name="Edit_label">Input Your Keyword</string>
+    <string name="btn_finance">喜欢视频面试</string>
+    <string name="btn_sale">喜欢现场面试</string>
+</resources>
